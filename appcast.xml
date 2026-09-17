@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Orchestrator</title>
+        <item>
+            <title>0.1.266</title>
+            <pubDate>Thu, 17 Sep 2026 10:14:38 +0200</pubDate>
+            <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/oliver-odgaard/orchestrator-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>266</sparkle:version>
+            <sparkle:shortVersionString>0.1.266</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/oliver-odgaard/orchestrator-releases/releases/download/v0.1.266/Orchestrator-0.1.266-bd49881.zip" length="9435831" type="application/octet-stream" sparkle:edSignature="Du5LGfkTf+IfTGjvRvqC09/jYYlGV2icE6lbex23wOQtYdm75DHG1pFZty4v2Iay++MibbBWDf8zK22bJP9QBg=="/>
+        </item>
+    </channel>
+</rss>
