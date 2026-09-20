@@ -3,6 +3,17 @@
     <channel>
         <title>Orchestrator</title>
         <item>
+            <title>0.1.375</title>
+            <pubDate>Sun, 20 Sep 2026 13:12:50 +0200</pubDate>
+            <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/oliver-odgaard/orchestrator-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>375</sparkle:version>
+            <sparkle:shortVersionString>0.1.375</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/oliver-odgaard/orchestrator-releases/releases/download/v0.1.375/Orchestrator-0.1.375-ceb432c.zip" length="20370616" type="application/octet-stream" sparkle:edSignature="WU4go14ybtIQwXLCfkDZPP3dFf+Oa3KvmZzlAKexcdphKqwRM2JyVJUxxZg33NPhF6u7cOeGRNHVNQ1NPhWvAA=="/>
+        </item>
+        <item>
             <title>0.1.304</title>
             <pubDate>Fri, 18 Sep 2026 08:27:08 +0200</pubDate>
             <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
