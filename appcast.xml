@@ -3,6 +3,17 @@
     <channel>
         <title>Orchestrator</title>
         <item>
+            <title>0.1.770</title>
+            <pubDate>Fri, 13 Nov 2026 08:07:28 +0100</pubDate>
+            <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/oliver-odgaard/orchestrator-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>770</sparkle:version>
+            <sparkle:shortVersionString>0.1.770</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/oliver-odgaard/orchestrator-releases/releases/download/v0.1.770/Orchestrator-0.1.770-1de20172.zip" length="28177763" type="application/octet-stream" sparkle:edSignature="daav4JTFCylgC+l+xjefJMZRwK2i4KoeGsC1k6PbQb2A3CBbmUFJZvuJ/AQr560qDf6dNRQq/adNSfgGkTX3Aw=="/>
+        </item>
+        <item>
             <title>0.1.769</title>
             <pubDate>Thu, 12 Nov 2026 18:25:54 +0100</pubDate>
             <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
@@ -23,17 +34,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/oliver-odgaard/orchestrator-releases/releases/download/v0.1.768/Orchestrator-0.1.768-4e1cc300.zip" length="28146630" type="application/octet-stream" sparkle:edSignature="ORC1/+GMOt98RPkwF9xL3Iw/6hR/pya7NxJVO2tKmWnfS1EeBHlVNRg0K3GF+7hn2lWmWydCndf4WVieqJ6xAA=="/>
-        </item>
-        <item>
-            <title>0.1.767</title>
-            <pubDate>Thu, 12 Nov 2026 09:42:52 +0100</pubDate>
-            <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/oliver-odgaard/orchestrator-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>767</sparkle:version>
-            <sparkle:shortVersionString>0.1.767</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/oliver-odgaard/orchestrator-releases/releases/download/v0.1.767/Orchestrator-0.1.767-a872ff4c.zip" length="28143773" type="application/octet-stream" sparkle:edSignature="OV211+PrUSEhlA+WqeUfSDFJTRIEs1S3wIDbQ8aiHPO2uThC2Aq2o88L4jIAJ7QR/AdQIT4UOqtqSyI1PLvlAA=="/>
         </item>
         <item>
             <title>0.1.304</title>
