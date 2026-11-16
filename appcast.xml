@@ -3,6 +3,35 @@
     <channel>
         <title>Orchestrator</title>
         <item>
+            <title>0.1.787</title>
+            <pubDate>Mon, 16 Nov 2026 09:53:53 +0100</pubDate>
+            <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/oliver-odgaard/orchestrator-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>787</sparkle:version>
+            <sparkle:shortVersionString>0.1.787</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>New</h3>
+<ul>
+<li>Added OpenCode, Gemini CLI, Cursor&#x27;s agent and Grok as workers, and new Claude and Codex models now appear right away.</li>
+<li>Added a live read-only view of a worker&#x27;s terminal and its code changes on each task card.</li>
+<li>Added the option to ask the supervisor to change a worker&#x27;s runtime, model or effort for you.</li>
+<li>Added plain-language notes describing what changed in each update.</li>
+</ul>
+<h3>Improved</h3>
+<ul>
+<li>Handled usage limits better: one alert, reset times on cards, and every affected task resumes on its own.</li>
+<li>Let tasks that change the same files build on each other instead of waiting in line.</li>
+<li>Transcribed iPhone dictation and showed Claude usage on the iPhone even when the Mac app window is closed.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>Fixed question cards with no options, cards covering the iPhone chat, sent text staying, and answered offers reopening.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/oliver-odgaard/orchestrator-releases/releases/download/v0.1.787/Orchestrator-0.1.787-8e77358a.zip" length="30120851" type="application/octet-stream" sparkle:edSignature="hmR5d3dwBhj1T9iwhkp3bn//sR5lS8PwtX/xagqpPHlzi5ag0nGwncBp9PgQ8dnOlnwR0BUsZw3o4u6BxNVWAw=="/>
+        </item>
+        <item>
             <title>0.1.771</title>
             <pubDate>Sun, 15 Nov 2026 13:33:17 +0100</pubDate>
             <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
@@ -23,17 +52,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/oliver-odgaard/orchestrator-releases/releases/download/v0.1.770/Orchestrator-0.1.770-1de20172.zip" length="28177763" type="application/octet-stream" sparkle:edSignature="daav4JTFCylgC+l+xjefJMZRwK2i4KoeGsC1k6PbQb2A3CBbmUFJZvuJ/AQr560qDf6dNRQq/adNSfgGkTX3Aw=="/>
-        </item>
-        <item>
-            <title>0.1.769</title>
-            <pubDate>Thu, 12 Nov 2026 18:25:54 +0100</pubDate>
-            <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/oliver-odgaard/orchestrator-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>769</sparkle:version>
-            <sparkle:shortVersionString>0.1.769</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/oliver-odgaard/orchestrator-releases/releases/download/v0.1.769/Orchestrator-0.1.769-fe853be3.zip" length="28165600" type="application/octet-stream" sparkle:edSignature="vdtqX9bUi2XlD766ZhyC1S+XQyb7urrxKi1JxrN9C1KR3O1MI95VFvZfMMVLGEMvFlMvPPXOHMm1bOsUI9VLDQ=="/>
         </item>
         <item>
             <title>0.1.304</title>
