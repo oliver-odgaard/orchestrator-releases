@@ -3,6 +3,32 @@
     <channel>
         <title>Orchestrator</title>
         <item>
+            <title>0.1.791</title>
+            <pubDate>Tue, 17 Nov 2026 08:06:46 +0100</pubDate>
+            <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/oliver-odgaard/orchestrator-releases/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>791</sparkle:version>
+            <sparkle:shortVersionString>0.1.791</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h3>New</h3>
+<ul>
+<li>Added a choice of branch name prefix for workers: orc/ or your GitHub username.</li>
+</ul>
+<h3>Improved</h3>
+<ul>
+<li>Kept one chat history when switching the supervisor&#x27;s runtime, with a handoff note at each switch.</li>
+<li>Grouped repeated chat alerts into one instead of showing each separately.</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>Fixed cards waiting to install when a change ships with a release or needs no install.</li>
+<li>Fixed Codex usage not showing.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/oliver-odgaard/orchestrator-releases/releases/download/v0.1.791/Orchestrator-0.1.791-a2a668e9.zip" length="30413006" type="application/octet-stream" sparkle:edSignature="cF1/qKOjXD01WcPRbc8744wCQ7xVlUOeMgD2tw/dHuTTLnyCQNLco7Rl77Nt2sf9xmdK6luxWPoR3idsVRbpAQ=="/>
+        </item>
+        <item>
             <title>0.1.787</title>
             <pubDate>Mon, 16 Nov 2026 09:53:53 +0100</pubDate>
             <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
@@ -41,17 +67,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/oliver-odgaard/orchestrator-releases/releases/download/v0.1.771/Orchestrator-0.1.771-2b02a2c2.zip" length="28393031" type="application/octet-stream" sparkle:edSignature="BNuGAWzCb81Dcl7yJwK8Sac95WZzmuwI6bJE+4PNRxuiPdWEN2chul4bf7mlrAoZG0YjfAMydexN8bZ+6MgsCg=="/>
-        </item>
-        <item>
-            <title>0.1.770</title>
-            <pubDate>Fri, 13 Nov 2026 08:07:28 +0100</pubDate>
-            <link>https://github.com/oliver-odgaard/orchestrator-releases</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/oliver-odgaard/orchestrator-releases/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>770</sparkle:version>
-            <sparkle:shortVersionString>0.1.770</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/oliver-odgaard/orchestrator-releases/releases/download/v0.1.770/Orchestrator-0.1.770-1de20172.zip" length="28177763" type="application/octet-stream" sparkle:edSignature="daav4JTFCylgC+l+xjefJMZRwK2i4KoeGsC1k6PbQb2A3CBbmUFJZvuJ/AQr560qDf6dNRQq/adNSfgGkTX3Aw=="/>
         </item>
         <item>
             <title>0.1.304</title>
